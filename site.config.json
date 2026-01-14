@@ -1,0 +1,212 @@
+{
+  "hotelName": "Art house hiriketiya",
+  "slug": "art-house-hiriketiya",
+  "template": "tropical",
+  "data": {
+    "name": "Art house hiriketiya",
+    "zone": "Hiriketiya",
+    "phone": "078 570 0150",
+    "booking_url": "https://www.booking.com/searchresults.html?ss=Art+house+hiriketiya+Sri+Lanka",
+    "booking_search": "https://www.booking.com/searchresults.html?ss=Art+house+hiriketiya+Sri+Lanka",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?cid=5070424799519693036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Ashara samagipura dodampahala, Dickwella 51449, Sri Lanka"
+  },
+  "options": {
+    "static": true,
+    "skipPhotos": false,
+    "deploy": false
+  },
+  "content": {
+    "siteSettings": {
+      "name": "Art house hiriketiya",
+      "tagline": "Your escape in Hiriketiya, Sri Lanka",
+      "contact": {
+        "phone": "078 570 0150",
+        "whatsapp": "94785700150",
+        "email": "info@art-house-hiriketiya.com",
+        "address": "Ashara samagipura dodampahala, Dickwella 51449, Sri Lanka"
+      },
+      "booking": {
+        "url": "https://www.booking.com/hotel/lk/art-house-dikwella.html",
+        "buttonText": "Book Now"
+      },
+      "social": {
+        "instagram": "",
+        "googleMaps": "https://maps.google.com/?cid=5070424799519693036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "seo": {
+        "title": "Art house hiriketiya | Beachfront Hotel in Hiriketiya, Sri Lanka",
+        "description": "Experience paradise at Art house hiriketiya. Steps from the beach Hiriketiya, Sri Lanka. Perfect for surfers and beach lovers."
+      },
+      "mainImage": "/images/hotel/photo-01.jpg"
+    },
+    "homepage": {
+      "hero": {
+        "title": "Welcome to Art house hiriketiya",
+        "subtitle": "Your beachfront escape in Hiriketiya",
+        "ctaText": "Book Your Stay",
+        "ctaUrl": "https://www.booking.com/hotel/lk/art-house-dikwella.html",
+        "backgroundImage": "/images/hotel/photo-01.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Nestled along the beautiful coast of Hiriketiya, Art house hiriketiya offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+        "image": "/images/hotel/photo-02.jpg"
+      },
+      "features": [
+        {
+          "title": "Beachfront Location",
+          "description": "Steps away from pristine sandy beaches",
+          "icon": "location"
+        },
+        {
+          "title": "Local Experience",
+          "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+          "icon": "culture"
+        },
+        {
+          "title": "Surf Paradise",
+          "description": "Access to world-renowned surf breaks",
+          "icon": "surf"
+        }
+      ],
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Discover our paradise",
+        "images": [
+          {
+            "src": "/images/hotel/photo-01.jpg",
+            "alt": "Art house hiriketiya - Photo 1",
+            "caption": "Art house hiriketiya"
+          },
+          {
+            "src": "/images/hotel/photo-02.jpg",
+            "alt": "Art house hiriketiya - Photo 2",
+            "caption": "Art house hiriketiya - Vue 2"
+          },
+          {
+            "src": "/images/hotel/photo-03.jpg",
+            "alt": "Art house hiriketiya - Photo 3",
+            "caption": "Art house hiriketiya - Vue 3"
+          },
+          {
+            "src": "/images/hotel/photo-04.jpg",
+            "alt": "Art house hiriketiya - Photo 4",
+            "caption": "Art house hiriketiya - Vue 4"
+          },
+          {
+            "src": "/images/hotel/photo-05.jpg",
+            "alt": "Art house hiriketiya - Photo 5",
+            "caption": "Art house hiriketiya - Vue 5"
+          },
+          {
+            "src": "/images/hotel/photo-06.jpg",
+            "alt": "Art house hiriketiya - Photo 6",
+            "caption": "Art house hiriketiya - Vue 6"
+          },
+          {
+            "src": "/images/hotel/photo-07.jpg",
+            "alt": "Art house hiriketiya - Photo 7",
+            "caption": "Art house hiriketiya - Vue 7"
+          },
+          {
+            "src": "/images/hotel/photo-08.jpg",
+            "alt": "Art house hiriketiya - Photo 8",
+            "caption": "Art house hiriketiya - Vue 8"
+          },
+          {
+            "src": "/images/hotel/photo-09.jpg",
+            "alt": "Art house hiriketiya - Photo 9",
+            "caption": "Art house hiriketiya - Vue 9"
+          },
+          {
+            "src": "/images/hotel/photo-10.jpg",
+            "alt": "Art house hiriketiya - Photo 10",
+            "caption": "Art house hiriketiya - Vue 10"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready for Paradise?",
+        "description": "Book your stay at Art house hiriketiya and discover the magic of Hiriketiya.",
+        "buttonText": "Check Availability",
+        "buttonUrl": "https://www.booking.com/hotel/lk/art-house-dikwella.html",
+        "backgroundImage": "/images/hotel/photo-10.jpg"
+      }
+    },
+    "footer": {
+      "copyright": "2026 Art house hiriketiya. All rights reserved.",
+      "address": "Ashara samagipura dodampahala, Dickwella 51449, Sri Lanka",
+      "phone": "078 570 0150"
+    },
+    "gallery": [
+      {
+        "src": "/images/hotel/photo-01.jpg",
+        "alt": "Art house hiriketiya - Photo 1",
+        "caption": "Art house hiriketiya"
+      },
+      {
+        "src": "/images/hotel/photo-02.jpg",
+        "alt": "Art house hiriketiya - Photo 2",
+        "caption": "Art house hiriketiya - Vue 2"
+      },
+      {
+        "src": "/images/hotel/photo-03.jpg",
+        "alt": "Art house hiriketiya - Photo 3",
+        "caption": "Art house hiriketiya - Vue 3"
+      },
+      {
+        "src": "/images/hotel/photo-04.jpg",
+        "alt": "Art house hiriketiya - Photo 4",
+        "caption": "Art house hiriketiya - Vue 4"
+      },
+      {
+        "src": "/images/hotel/photo-05.jpg",
+        "alt": "Art house hiriketiya - Photo 5",
+        "caption": "Art house hiriketiya - Vue 5"
+      },
+      {
+        "src": "/images/hotel/photo-06.jpg",
+        "alt": "Art house hiriketiya - Photo 6",
+        "caption": "Art house hiriketiya - Vue 6"
+      },
+      {
+        "src": "/images/hotel/photo-07.jpg",
+        "alt": "Art house hiriketiya - Photo 7",
+        "caption": "Art house hiriketiya - Vue 7"
+      },
+      {
+        "src": "/images/hotel/photo-08.jpg",
+        "alt": "Art house hiriketiya - Photo 8",
+        "caption": "Art house hiriketiya - Vue 8"
+      },
+      {
+        "src": "/images/hotel/photo-09.jpg",
+        "alt": "Art house hiriketiya - Photo 9",
+        "caption": "Art house hiriketiya - Vue 9"
+      },
+      {
+        "src": "/images/hotel/photo-10.jpg",
+        "alt": "Art house hiriketiya - Photo 10",
+        "caption": "Art house hiriketiya - Vue 10"
+      }
+    ]
+  },
+  "bookingUrl": "https://www.booking.com/hotel/lk/art-house-dikwella.html",
+  "photos": [
+    "photo-01.jpg",
+    "photo-02.jpg",
+    "photo-03.jpg",
+    "photo-04.jpg",
+    "photo-05.jpg",
+    "photo-06.jpg",
+    "photo-07.jpg",
+    "photo-08.jpg",
+    "photo-09.jpg",
+    "photo-10.jpg"
+  ],
+  "generatedAt": "2026-01-12T15:59:02.213Z"
+}
